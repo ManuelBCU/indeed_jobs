@@ -1,4 +1,4 @@
-import requests
+import bs4
 import scraperwiki
 from bs4 import BeautifulSoup
 import pandas as pd
