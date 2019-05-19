@@ -1,3 +1,4 @@
+import request
 import bs4
 import scraperwiki
 from bs4 import BeautifulSoup
